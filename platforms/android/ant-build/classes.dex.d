@@ -1,0 +1,21 @@
+/var/www/html/test/platforms/android/ant-build/classes.dex : \
+/var/www/html/test/platforms/android/ant-build/classes/com/borismus/webintent/WebIntent.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$1.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$2.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/Util.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$6.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$8.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$5.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$7.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$3.class \
+/var/www/html/test/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$4.class \
+/var/www/html/test/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/var/www/html/test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/var/www/html/test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/var/www/html/test/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/var/www/html/test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/var/www/html/test/platforms/android/ant-build/classes/io/cordova/hellocordova/HelloCordova.class \
+/var/www/html/test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/var/www/html/test/platforms/android/ant-build/classes/org/apache/cordova/api/Dummy.class \
+/var/www/html/test/platforms/android/ant-build/dexedLibs/classes-a83fd1a4390e866e539217f663d2b99b.jar \
